@@ -1,0 +1,23 @@
+2019-12-12T17:56:09.243412200 0.193130s notice: In recursion: removing file 'C:\\Users\\CrasH\\Desktop\\DS_Project\\rethinkdb_data\\tmp'
+2019-12-12T17:56:09.245412200 0.194288s warn: Trying to delete non-existent file 'C:\\Users\\CrasH\\Desktop\\DS_Project\\rethinkdb_data\\tmp'
+2019-12-12T17:56:09.249408700 0.197945s notice: Initializing directory C:\\Users\\CrasH\\Desktop\\DS_Project\\rethinkdb_data
+2019-12-12T17:56:09.268400500 0.217062s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\Users\\CrasH\\Desktop\\DS_Project\\rethinkdb_data' did not already exist or is empty.)
+2019-12-12T17:56:09.268400501 0.217137s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-12-12T17:56:09.269398100 0.217855s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-12-12T17:56:09.269398101 0.218436s notice: Loading data from directory C:\\Users\\CrasH\\Desktop\\DS_Project\\rethinkdb_data
+2019-12-12T17:56:10.681981100 1.630648s info: Automatically using cache size of 100 MB
+2019-12-12T17:56:10.681981101 1.630656s warn: Cache size does not leave much memory for server and query overhead (available memory: 363 MB).
+2019-12-12T17:56:10.681981102 1.630660s warn: Cache size is very low and may impact performance.
+2019-12-12T17:56:10.780117200 1.729049s notice: Listening for intracluster connections on port 29015
+2019-12-12T17:56:10.849234400 1.798543s notice: Listening for client driver connections on port 28015
+2019-12-12T17:56:10.850229600 1.798792s notice: Listening for administrative HTTP connections on port 8080
+2019-12-12T17:56:10.850229601 1.798798s notice: Listening on cluster address: 127.0.0.1
+2019-12-12T17:56:10.850229602 1.798799s notice: Listening on driver address: 127.0.0.1
+2019-12-12T17:56:10.850229603 1.798802s notice: Listening on http address: 127.0.0.1
+2019-12-12T17:56:10.850229604 1.798803s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-12-12T17:56:10.850229605 1.798805s notice: Server ready, "Kareem_Allam_sc2" f7dead8b-3109-499f-b639-7a729127c274
+2019-12-12T17:56:38.844824600 29.793801s notice: Server got Control-C; shutting down...
+2019-12-12T17:56:38.844824601 29.793908s notice: Shutting down client connections...
+2019-12-12T17:56:38.844824602 29.793999s notice: All client connections closed.
+2019-12-12T17:56:38.844824603 29.794002s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2019-12-12T17:56:38.943047000 29.892124s notice: Storage engine shut down.

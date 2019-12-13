@@ -1,0 +1,1 @@
+rethinkdb -n DS -d .DS --bind all
