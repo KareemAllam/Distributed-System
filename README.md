@@ -54,3 +54,7 @@ Once RabbitMQ is installed on any server, you can use it directly by addressing 
 ### Authors
 - [Kareem Allam](https://github.com/KareemAllam)
 - [Omar Atallah](https://github.com/ertomar)
+- [Alaa Abu-ElKheir](https://github.com/somayamostafa)
+- [Somaya Mostafa](https://github.com/somayamostafa)
+- [Asmaa Ghodia](https://github.com/AsmaaMghodia)
+
