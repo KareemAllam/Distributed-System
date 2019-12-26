@@ -1,5 +1,5 @@
 # Distribtued System
-an Exploration to Distributed Systems using RabbitMQ, RethinkDB & NodeJs.
+[WIP] an Exploration to Distributed Systems using RabbitMQ, RethinkDB & NodeJs.
 
 ## Idea of The Project
 1. There main idea is to partition a specific task (e.g. counting task) taken form a user into 3 smaller sub-tasks. 
