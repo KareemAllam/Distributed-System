@@ -1,8 +1,8 @@
 # Distribtued System
-[WIP] an Exploration to Distributed Systems using RabbitMQ, RethinkDB & NodeJs.
+[WIP] an Exploration of Distributed Systems using RabbitMQ, RethinkDB & NodeJs.
 
 ## Description
-1. There main idea is to partition a specific task (e.g. counting task) taken form a user into 3 smaller sub-tasks. 
+1. The main idea is to partition a specific task (e.g. counting task) taken form a user into 3 smaller sub-tasks. 
 2. Each sub-task will then be allocated to a remote server with respect to each server's performance , which will handle the task separately. 
 3. Eventually, Each server return the result of its task back to the server, where it will be collected and sent back to the user.
 
